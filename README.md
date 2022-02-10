@@ -1,2 +1,2 @@
 # Cadastro de item
- Cadastro de um  novo item dacafeteria
+ Cadastro de um  novo item da cafeteria
